@@ -1,16 +1,10 @@
-# weather_app
+# WeatherAppFlutter
 
-A new Flutter project.
+A small yet feature-rich weather app built using Flutter, showcasing my UI design skills. The app offers real-time weather updates for different locations and dynamically adjusts its background based on weather conditions. With a seamless slider carousel and intuitive user interface, WeatherAppFlutter is a hands-on project that demonstrates my proficiency in Flutter development and UI/UX design.
 
-## Getting Started
+# Key Features:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<li>Dynamic background changes based on weather conditions.</li>
+<li>Intuitive slider carousel for effortless location navigation.</li>
+<li></li>A clean and visually appealing user interface.</li>
+<li>This project allowed me to dive deep into Flutter's capabilities and practice creating engaging user experiences.</li>
